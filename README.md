@@ -3,8 +3,7 @@
 Welcome to the Grocery Web App! Our platform is designed to provide a seamless online shopping experience for customers, allowing them to explore and purchase a wide range of grocery products from the comfort of their homes. With an intuitive user interface, responsive design, and secure backend, this app ensures a smooth experience for both customers and administrators.
 ## QUICK LINKS
 
-- **Video Demo Link :** https://drive.google.com/file/d/1K3WHSy8rpCMtK2Ega6JLJAKZO4lpf5Vc/view?usp=sharing 
-  
+- **Video Demo Link :**https://drive.google.com/file/d/1JhQ66pHlzq-55IFN_VGKmrT7JV_hVkwb/view?usp=sharing
 - **Screenshots of installations & project execution :** https://docs.google.com/document/d/1l_AqhhdYAkWz6TXka_mIM3dzpJP45G9x/edit?usp=sharing&ouid=116446865624800054596&rtpof=true&sd=true
 
 
